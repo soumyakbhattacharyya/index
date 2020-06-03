@@ -9,6 +9,13 @@
         * jsx 
         * {evaluatable javascript}
         * prop
+        * prop.children
+        * state
+        * setState
+        * event
+        * useSate
+        * difference between useState.setSomeAttributeOfState and setState
+        * stateful (container) vs. stateless (functional) components
     * angular
     * vue
 # continuous delivery
